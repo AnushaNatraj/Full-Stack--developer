@@ -9,3 +9,4 @@
 * Express Js
 * Mongo DB
 * React Js
+* Angular Js
